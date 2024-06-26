@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-ExtraLight.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-Thin.ttf");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-Light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-Medium.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-SemiBold.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Pre";
+  src: url("./font/Pretendard-Bold.ttf");
+  font-weight: 600;
+}
