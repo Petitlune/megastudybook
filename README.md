@@ -1,5 +1,4 @@
 # megastudybook
-# ggLibrary
 <h2>👀메가스터디북스 홈페이지(메인) 클론 코딩👀</h2>
 </br>
 <ul>
